@@ -24,6 +24,13 @@ Flowchart
 Here is an overview how the Azure Sentinel SIEM lab works. Our unprotected VM gets exposed to the global internet, gathering the data for the Log Analytics Workspace to analyze and transfer it to the Azure Sentinel to visualize.
 ![how SIEM works](https://github.com/timuakhm/Azure-Sentinel-SIEM-/assets/171197854/749825bf-802d-4b69-8f7f-d739a6769349)
 
+
+SIEM Logs
+
+This is the data that is being fed to Azure Sentinel to visualize the geopgraphical data.
+![SIEM logs](https://github.com/timuakhm/Azure-Sentinel-SIEM-/assets/171197854/5ff45baf-8b08-47cd-9821-3e59ad809131)
+
+
 --Results--
 
 Day 1:
